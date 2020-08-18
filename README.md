@@ -1,2 +1,2 @@
 # Decision-Tree-Simple
-Decision Tree Simple: ID3 algorithm, C4.5, CART
+Decision Tree Simple: ID3, C4.5, CART
